@@ -4,11 +4,12 @@ The files of the QC Museum (https://qubic.church/museum), unchanged. Hall 0 is t
 
 ## Hall 0: the first miner
 
-The Qubic miner Come-from-Beyond posted in the Qubic Discord (#computor-operator) on 11 December 2021, before Qubic launched: "Qubic miner for a single-core CPU (for testing)". A Windows console program, built 2021-12-11 11:31:05 UTC, that trains a network and prints its error counter. It does not connect to anything.
+The Qubic miner Come-from-Beyond posted in the Qubic Discord (#computor-operator) on 11 December 2021, before Qubic launched: "Qubic miner for a single-core CPU (for testing)". A Windows console program, built 2021-12-11 11:31:05 UTC, that trains a network and prints its error counter. It does not connect to anything. On 27 December 2021 he shared the source of the networked miner, qiner.cpp, "not ready for running yet".
 
 | Posted (UTC) | File | SHA-256 |
 |---|---|---|
 | 2021-12-11 11:37 | [`first-miner-2021.zip`](files/first-miner-2021.zip) (qubic_miner.exe, 123,392 bytes) | `d122a15a7fda38bf9826fc170b9dd506840fbb9861d2c22436b0a6b338826e57` |
+| 2021-12-27 12:57 | [`qiner-2021.zip`](files/qiner-2021.zip) (qiner.cpp, the miner's source, 9,184 bytes) | `7f6b23bcfe6d4aa9b4d3a5984a2f982e8d20ade6d420bd9875cd4a6d36bff938` |
 
 ## Hall 1: Anna.exe
 
