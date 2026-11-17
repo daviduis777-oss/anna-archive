@@ -1,3 +1,4 @@
+d122a15a7fda38bf9826fc170b9dd506840fbb9861d2c22436b0a6b338826e57  files/first-miner-2021.zip:qubic_miner.exe
 d41d7b8bbb6e7f8d74c28b94ef67f511f5735a409dd5cbcc8efbc0ca6fd388a0  files/v0.zip:Anna.exe
 05cc66d943dc17d222949361ca4a1831dd735ba3f68dbfa951126e69346d8495  files/v0.1.zip:Anna.exe
 70cbb3a35c981b076d8484b6700b4cd8fecf02a214722a83b177445ec877d47a  files/v0.2.zip:Anna.exe

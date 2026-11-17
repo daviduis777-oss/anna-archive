@@ -1,12 +1,24 @@
 # Anna.exe archive
 
+The files of the QC Museum (https://qubic.church/museum), unchanged. Hall 0 is the first Qubic miner of 2021; Hall 1 is every Anna.exe.
+
+## Hall 0: the first miner
+
+The Qubic miner Come-from-Beyond posted in the Qubic Discord (#computor-operator) on 11 December 2021, before Qubic launched: "Qubic miner for a single-core CPU (for testing)". A Windows console program, built 2021-12-11 11:31:05 UTC, that trains a network and prints its error counter. It does not connect to anything.
+
+| Posted (UTC) | File | SHA-256 |
+|---|---|---|
+| 2021-12-11 11:37 | [`first-miner-2021.zip`](files/first-miner-2021.zip) (qubic_miner.exe, 123,392 bytes) | `d122a15a7fda38bf9826fc170b9dd506840fbb9861d2c22436b0a6b338826e57` |
+
+## Hall 1: Anna.exe
+
 Every Anna.exe that Come-from-Beyond posted in the Qubic Discord (#price-discussion), from 10 June to 8 November 2026. The files are unchanged: one zip per version, exactly as they were posted.
 
 The story behind each file, with Come-from-Beyond's words and the chat around it, is in the QC Museum, Hall 1: https://qubic.church/museum
 
 ## Check before you run
 
-These are Windows console programs from 2026. Some antivirus tools flag them. Compare the SHA-256 of any file with `SHA256SUMS.txt`, and look it up on VirusTotal (https://www.virustotal.com/gui/file/<sha256>). Run them at your own risk, ideally in a sandbox.
+These are Windows console programs from 2021 and 2026. Some antivirus tools flag them. Compare the SHA-256 of any file with `SHA256SUMS.txt`, and look it up on VirusTotal (https://www.virustotal.com/gui/file/<sha256>). Run them at your own risk, ideally in a sandbox.
 
 ## Versions
 
